@@ -1,14 +1,13 @@
 # 👋 Hi there, I'm Vincent
 
-- 🎓 Computer Science student at Universität Rostock  
-- 🌐 Webmaster at IVAO Austria since 06/2023
-- 💻 Software & Web Developer at Karls Erlebnis-Radio (Karls Erlebnis-Dorf)
+🎓 Studying Computer Science Education at the University of Rostock<br>
+🌐 Responsible for web development and administration at IVAO Austria (06/2023 – present)<br>
+💻 Developing software and web applications for Karls Erlebnis-Radio at Karls Erlebnis-Dorf (2022 – present)
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
